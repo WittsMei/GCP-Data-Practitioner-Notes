@@ -20,3 +20,16 @@
 - In **APIs or webhooks**, the payload is the data sent in the body of a request or response. For example, when you send a JSON object in an HTTP POST request, that JSON is the payload.
 
 - In **programming or cyber security**, payload might refer to the actual malicious code or data delivered by malware or an exploit.
+
+
+### Compare migrate and replication options
+![1748924014081](https://github.com/user-attachments/assets/3424054e-74a7-416c-b1da-3554a77c5a27)
+
+
+
+
+
+
+
+
+
