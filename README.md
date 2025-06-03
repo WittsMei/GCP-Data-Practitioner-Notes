@@ -23,7 +23,8 @@
 
 
 ### Compare migrate and replication options
-![1748924014081](https://github.com/user-attachments/assets/3424054e-74a7-416c-b1da-3554a77c5a27)
+![1748924106721](https://github.com/user-attachments/assets/5ab2ed7f-3278-44f9-b2b7-88672859cc68)
+
 
 
 
