@@ -10,3 +10,13 @@
 - **Historical backfill** refers to the process of filling in missing or past data in a system, data pipeline, or model that wasn't previously collected, processed, or stored.
 
 ![1748922475679](https://github.com/user-attachments/assets/02034f2a-663e-42b8-a341-aa12c3e15d91)
+
+### What is historical backfill?
+- **Payload** generally means the actual data or information being carried or transmitted in a communication, message, or data packet, excluding any metadata or overhead.
+
+##### More specifically:
+- In **networking and data communication**, payload is the part of the transmitted data that is the meaningful content — the actual message or data you want to send — not including headers, metadata, or control information.
+
+- In **APIs or webhooks**, the payload is the data sent in the body of a request or response. For example, when you send a JSON object in an HTTP POST request, that JSON is the payload.
+
+- In **programming or cyber security**, payload might refer to the actual malicious code or data delivered by malware or an exploit.
