@@ -27,7 +27,8 @@
 
 
 ### Dataform streamlines data operations in BigQuery by unifying transformation, assertion, and automation
-![1750388472220](https://github.com/user-attachments/assets/ed6e8be3-7f9b-426c-a2ca-b2ca445bd5e7)
+![1750388722841](https://github.com/user-attachments/assets/daf1c0e7-6317-4437-b4de-bff37ab3bf38)
+
 
 
 ### SQLx File Structure
