@@ -39,6 +39,13 @@
 The code example demonstrates how a complex CASE statement for categorizing countries can be replaced with a simple function call $(mapping.region("country")). This approach improves code readability and maintainability by reducing boilerplate code and promoting reusability.
 ![1749454202334](https://github.com/user-attachments/assets/21c9d8eb-537d-4e28-a84b-debc8200816a)
 
+### Key configuration types
+- Declaration for referencing existing BigQuery tables
+- Table for creating or replacing tables with a SELECT statement
+- Incremental for creating tables and updating
+- View for creating or replacing views
+![1750389292933](https://github.com/user-attachments/assets/1530244d-75fa-47e1-a625-7c1f65801181)
+
 
 
 
