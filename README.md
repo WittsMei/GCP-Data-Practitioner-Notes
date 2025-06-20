@@ -36,7 +36,7 @@
 
 
 ### SQLx development streamlines SQL code by replacing repetitive patterns with concise definitions
-The code example demonstrates how a complex CASE statement for categorizing countries can be replaced with a simple function call $(mapping.region("country")).
+The code example demonstrates how a complex CASE statement for categorizing countries can be replaced with a simple function call $(mapping.region("country")). This approach improves code readability and maintainability by reducing boilerplate code and promoting reusability.
 ![1749454202334](https://github.com/user-attachments/assets/21c9d8eb-537d-4e28-a84b-debc8200816a)
 
 
