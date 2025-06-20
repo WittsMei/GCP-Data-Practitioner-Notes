@@ -36,8 +36,12 @@
 
 
 ### SQLx development streamlines SQL code by replacing repetitive patterns with concise definitions
-The code example demonstrates how a complex CASE statement for categorizing countries can be replaced with a simple function call $(mapping.region("country")). This approach improves code readability and maintainability by reducing boilerplate code and promoting reusability.
+- The code example demonstrates how a complex CASE statement for categorizing countries can be replaced with a simple function call $(mapping.region("country")). This approach improves code readability and maintainability by reducing boilerplate code and promoting reusability.
 ![1749454202334](https://github.com/user-attachments/assets/21c9d8eb-537d-4e28-a84b-debc8200816a)
+
+- Source and Table
+![1750391908932](https://github.com/user-attachments/assets/b98252e0-0975-4315-a60e-68c1f6412224)
+![1750391974943](https://github.com/user-attachments/assets/624671ce-ddc7-4dff-9f1e-b3ed0c6b693e)
 
 ### Key configuration types
 - Declaration for referencing existing BigQuery tables
@@ -49,7 +53,6 @@ The code example demonstrates how a complex CASE statement for categorizing coun
 
 ### Dataform offers assertions to define data quality tests, ensuring data consistency and accuracy
 ![1750389396729](https://github.com/user-attachments/assets/c7350acb-08b2-411c-8604-44c32a2f1f3b)
-
 
 
 
