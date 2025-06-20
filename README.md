@@ -44,9 +44,11 @@ The code example demonstrates how a complex CASE statement for categorizing coun
 - Table for creating or replacing tables with a SELECT statement
 - Incremental for creating tables and updating
 - View for creating or replacing views
-![1750389292933](https://github.com/user-attachments/assets/1530244d-75fa-47e1-a625-7c1f65801181)
+![image](https://github.com/user-attachments/assets/b6296b04-37d1-44db-bc59-257df7944f50)
 
 
+### Dataform offers assertions to define data quality tests, ensuring data consistency and accuracy
+![1750389396729](https://github.com/user-attachments/assets/c7350acb-08b2-411c-8604-44c32a2f1f3b)
 
 
 
